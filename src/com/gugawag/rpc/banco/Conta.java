@@ -1,4 +1,4 @@
-package edu.ifpb.sistemasdistribuidos;
+package com.gugawag.rpc.banco;
 
 public class Conta {
     private String numero;

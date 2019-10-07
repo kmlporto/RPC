@@ -1,4 +1,4 @@
-package edu.ifpb.sistemasdistribuidos;
+package com.gugawag.rpc.banco;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
